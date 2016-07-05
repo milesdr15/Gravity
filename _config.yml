@@ -9,7 +9,7 @@
 title: Darisee's INLS 161 Project
 email: dariseejr@live.com
 description: The Liberal Jekyll Theme
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/gravity" # the subpath of your site, e.g. /blog
 url: "http://dariseejr.github.io/" # the base hostname & protocol for your site
 twitter_username: ninjadlp
 github_username:  dariseejr
